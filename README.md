@@ -28,6 +28,7 @@ TODO
 - 以下リンクを参考に手作業の半自動化
   - [tsukuboshi/dotfiles](https://github.com/tsukuboshi/dotfiles)
 - Automatorの設定を追加
+  - [【Mac Info】Macで面倒な作業を自動化! 「クイックアクション」を使いこなそう - PC Watch](https://pc.watch.impress.co.jp/docs/column/macinfo/1356257.html)
 
 ## 参考リンク
 
