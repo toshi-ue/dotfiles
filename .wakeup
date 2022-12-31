@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# https://qiita.com/youcune/items/fcfb4ad3d7c1edf9dc96
+set -eu
+
+expect -c "
+  spawn sudo sysctl debug.lowpri_throttle_enabled=1
+  expect \"Password:\"
+  send \"<your_password>\n\"
+  interact
+"

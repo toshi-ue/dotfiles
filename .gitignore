@@ -1,0 +1,24 @@
+### ignore all ###
+/*
+/.**
+
+### not ignore ###
+!/.gitignore
+
+!/_asdf.sh
+!/_default.sh
+!/_link.sh
+!/_setup.sh
+
+!/.bash_profile
+!/.bashrc
+!/.Brewfile
+
+!/.git-completion.sh
+!/.git-prompt.sh
+!/.gitconfig
+!/.sleep
+!/.wakeup
+
+!/LICENCE
+!/README.md
