@@ -23,8 +23,11 @@ bash -c "$( curl -fsSL https://raw.github.com/toshi-ue/dotfiles/main/setup.sh )"
 
 ## やりのこしていること
 
-TODO: 以下リンクを参考に手作業の半自動化
-[tsukuboshi/dotfiles](https://github.com/tsukuboshi/dotfiles)
+TODO
+
+- 以下リンクを参考に手作業の半自動化
+  - [tsukuboshi/dotfiles](https://github.com/tsukuboshi/dotfiles)
+- Automatorの設定を追加
 
 ## 参考リンク
 
