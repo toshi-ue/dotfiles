@@ -29,6 +29,8 @@ TODO
   - [tsukuboshi/dotfiles](https://github.com/tsukuboshi/dotfiles)
 - Automatorの設定を追加
   - [【Mac Info】Macで面倒な作業を自動化! 「クイックアクション」を使いこなそう - PC Watch](https://pc.watch.impress.co.jp/docs/column/macinfo/1356257.html)
+- brew auto updateの設定
+- スクリーンショットの設定
 
 ## 参考リンク
 
