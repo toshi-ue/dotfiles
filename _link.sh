@@ -4,8 +4,9 @@
 set -eu
 
 # シンボリックリンクの作成
+# https://envader.plus/course/7/scenario/1033
 echo "Add symboliclinks ..."
 DOT_FILES=".bash_profile .bashrc .gitconfig .git-completion.sh .git-prompt.sh"
 for file in $DOT_FILES; do
-  ln -sf $(pwd)/$file ~
+  ln -sf $(pwd)/$file $HOME/$file
 done

@@ -31,6 +31,10 @@ TODO
   - [【Mac Info】Macで面倒な作業を自動化! 「クイックアクション」を使いこなそう - PC Watch](https://pc.watch.impress.co.jp/docs/column/macinfo/1356257.html)
 - brew auto updateの設定
 - スクリーンショットの設定
+- direnvの設定
+  - [direnvと環境変数を使ってGitのユーザ名、メールアドレス、SSH KEYをリポジトリ毎に切り替える | ゲンゾウ用ポストイット](https://genzouw.com/entry/2021/08/04/153026/2750/)
+- CI/CDによるテスト
+  - [支給されたMacの環境をdotfilesでセットアップしてみた | DevelopersIO](https://dev.classmethod.jp/articles/joined-mac-dotfiles-customize/)
 
 ## 参考リンク
 
